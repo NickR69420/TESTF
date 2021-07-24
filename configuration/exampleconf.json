@@ -1,0 +1,8 @@
+{
+  "bot": {
+    "token": "Token",
+    "prefix": "Prefix",
+    "logo": "BotIcon",
+    "username": "BotName"
+  }
+} 
